@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Examen</string>
+    <string name="srt_contac1">contacto 1</string>
+    <string name="srt_contac2">contacto 2</string>
+    <string name="srt_btn_contac1">contacto 1</string>
+    <string name="srt_btn_contac2">contacto 2</string>
+    <string name="srt_btn_contac3">contacto  3</string>
+    <string name="srt_btn_contac4">contacto  4</string>
+    <string name="srt_btn_contac5">contacto  5</string>
+    <string name="srt_btn_contac6">contacto  6</string>
+    <string name="srt_btn_contac7">contacto  7</string>
+    <string name="srt_btn_contac8">contacto 8</string>
+
+    <string name="srt_txt_name">Nombre: Edilmer</string>
+    <string name="srt_txt_lastname">Apellido: Chachinoy</string>
+    <string name="srt_txt_tel">Telefono: 3122927650</string>
+    <string name="srt_txt_age">Edad: 26</string>
+
+    <string name="form_email">Correo electronico</string>
+    <string name="form_comentary">Comentario</string>
+    <string name="srt_btn_update">Actualizar</string>
+    <string name="str_title_toolbar">Regresar</string>
+</resources>
